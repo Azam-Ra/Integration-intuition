@@ -11,6 +11,6 @@ Program with the aim of giving the user intuition behind traditional integration
 
 ## Run on Terminal
 ```
-gcc main.c -o test
+gcc integration.c -o test
 test
 ```
