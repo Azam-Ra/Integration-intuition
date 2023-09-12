@@ -1,4 +1,4 @@
-# Integration_intuition
+# Integration-intuition
 Program with the aim of giving the user intuition behind traditional integration calculations.
 
 ## Functionality of the program
